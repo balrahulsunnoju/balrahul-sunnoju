@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rahul — Data & Backend Engineer
+# 👋 Hi, I'm Rahul — Backend Engineer
 
 **M.S. Computer Science · University of Dayton · Austin, TX**
 F1 OPT · Open to full-time roles in Data Engineering, Backend, and AI
