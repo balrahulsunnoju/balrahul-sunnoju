@@ -1,48 +1,46 @@
-# 👋 Hi, I'm Rahul — Backend Engineer
+# 👋 Hi, I'm Rahul — Data Engineer
 
 **M.S. Computer Science · University of Dayton · Austin, TX**
-F1 OPT · Open to full-time roles in Data Engineering, Backend, and AI
+Data Engineer @ Discover Financial Services · F1 OPT · Open to Data Engineer roles in the US
 
 ---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django_REST-092E20?style=flat&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=flat&logo=amazonaws&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
 ---
 
 ## 🔨 Projects
 
-### 📧 Email Automation Bot
-Python script using smtplib + environment variables to send automated reminders
-`Python` `SMTP` `.env security`
+### 🚗 Car Rental API
+Production-grade REST API for vehicle listings and end-to-end booking workflows.
+Built with FastAPI + PostgreSQL — JWT auth, date overlap detection, automatic cost calculation, admin RBAC, and 11 PyTest integration tests with isolated test DB.
 
-### 🌤 Weather Alert App  
-Fetches live weather data via REST API — sends SMS when rain is forecast
-`Python` `REST APIs` `Twilio`
-
-### 📈 Stock Price Tracker
-Monitors stock price in real-time, triggers email alert when threshold crossed
-`Python` `APIs` `Automation`
+`Python` `FastAPI` `PostgreSQL` `JWT` `SQLAlchemy` `Docker` `CI/CD` `PyTest`
 
 ### 🏗 AI Job Fit Scorer *(in progress)*
-Django REST API + OpenAI integration to score resume fit against job descriptions. Deployed on AWS EC2.
-`Django` `OpenAI API` `PostgreSQL` `AWS EC2` `Docker`
+FastAPI + OpenAI integration to score resume fit against job descriptions. Deployed on AWS EC2.
+
+`Python` `FastAPI` `OpenAI API` `PostgreSQL` `AWS EC2` `Docker`
 
 ---
 
 ## 📚 Currently learning
 
-- 🐍 Python — Angela Yu 100 Days of Code 
-- ☁️ AWS Cloud Practitioner CLF-C02
-- 🤖 AI tools + LangChain 
-- 🗄 SQL — daily LeetCode + SQLZoo practice
+- ⚡ Apache Airflow — DAGs, task dependencies, pipeline orchestration
+- 🗄 dbt — data modeling, testing, and documentation
+- ☁️ AWS Data Engineering — S3, Glue, RDS
+- 🔥 PySpark — large-scale distributed data processing
+- 🗃 SQL — daily LeetCode practice
 
 ---
 
 ## 📫 Let's connect
 
-📧 rahulsunnoju23@gmail.com | 📍 Austin, TX | 💼 Open to full-time roles
+📧 rahulsunnoju23@gmail.com | 📍 Austin, TX | 💼 Open to Data Engineer roles
